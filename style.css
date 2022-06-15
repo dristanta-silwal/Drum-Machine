@@ -1,0 +1,21 @@
+body{
+    background-color: var(--indigo);
+}
+.card-body{
+    background-color: var(--purple);
+}
+.botn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--purple);
+}
+.drum-pad{
+    /* padding: 20px; */
+    margin: 10px;
+}
+@media (max-width: 575px){
+    .botn{
+        flex-direction: column;
+    }
+}
