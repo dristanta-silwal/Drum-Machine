@@ -1,1 +1,0 @@
-This is a project built by the help of React under the certification course of freeCodeCamp.
